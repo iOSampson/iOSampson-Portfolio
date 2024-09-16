@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Drake Personal Portfolio were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\xamp\htdocs\wordpress/wp-content/uploads/2024/09/demo-content-import-file_2024-09-12__10-58-17.xml
+Widget file = D:\xamp\htdocs\wordpress/wp-content/uploads/2024/09/demo-widgets-import-file_2024-09-12__10-58-17.json
+Customizer file = D:\xamp\htdocs\wordpress/wp-content/uploads/2024/09/demo-customizer-import-file_2024-09-12__10-58-17.dat
+Redux files:
+drake_options -> D:\xamp\htdocs\wordpress/wp-content/uploads/2024/09/demo-redux-import-file_0-2024-09-12__10-58-17.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "laravel" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "testimonial-1" (Media)
+[ERROR] Failed to import "testimonial-2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "testimonial-3" (Media)
+[ERROR] Failed to import "client-1" (Media)
+[ERROR] Failed to import "client-2" (Media)
+[ERROR] Failed to import "client-3" (Media)
+[ERROR] Failed to import "client-4" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "client-5" (Media)
+[ERROR] Failed to import "client-6" (Media)
+[ERROR] Failed to import "client-7" (Media)
+[ERROR] Failed to import "client-8" (Media)
+[ERROR] Failed to import "video1" (Media)
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
